@@ -1,0 +1,77 @@
+.l-right {
+  margin-top: 10rem;
+  width: 30%;
+}
+
+.l-right p {
+  margin-top: -2rem;
+}
+
+.l-about {
+  align-items: flex-start;
+  display: flex;
+  height: 100vh;
+  justify-content: space-between;
+  padding: 0 8.5rem 0 8.5rem;
+  position: relative;
+  width: 100vw;
+}
+
+.l-education {
+  margin-top: 10rem;
+}
+
+.l-professional {
+  margin-top: 5rem;
+}
+
+.c-education,
+.c-professional {
+  display: flex;
+  font-size: 2.5rem;
+  height: 10rem;
+  position: relative;
+}
+
+.c-education:first-of-type:before,
+.c-education::after,
+.c-professional:first-of-type:before,
+.c-professional::after {
+  background-color: #fafafa;
+  content: "";
+  height: 0.1rem;
+  position: absolute;
+  width: 110%;
+}
+
+.c-education:before,
+.c-professional:before {
+  top: -1.5rem;
+}
+
+.c-education::after,
+.c-professional::after {
+  bottom: 2.5rem;
+}
+
+.c-education__date,
+.c-professional__date {
+  font-weight: 300;
+}
+
+.c-training-course,
+.c-experience {
+  margin-left: 5rem;
+}
+
+.c-training-course__title,
+.c-experience__title {
+  font-weight: 500;
+}
+
+.c-training-course__location,
+.c-experience__location {
+  color: var(--color-secondary);
+  font-size: initial;
+  font-style: italic;
+}

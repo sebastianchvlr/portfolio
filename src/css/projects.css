@@ -1,0 +1,25 @@
+.l-projects {
+    height: 100vh;
+    padding: 0 8.5rem 0 8.5rem;
+    position: relative;
+    width: 100vw;
+  }
+
+  .c-project {
+    align-items: center;
+    display: flex;
+    margin-right: 10rem;
+    width: 300vw;
+}
+  
+  .c-project__div {
+    height: 50rem;
+    margin-right: 10rem;
+    overflow: hidden;
+    width: 100rem;
+  }
+
+  .c-project__div > img {
+    object-fit: cover;
+    width: 100%;
+  }

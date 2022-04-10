@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Rany';
+    src: url('RanyBoldItalic.eot');
+    src: url('RanyBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('RanyBoldItalic.woff2') format('woff2'),
+        url('RanyBoldItalic.woff') format('woff'),
+        url('RanyBoldItalic.ttf') format('truetype'),
+        url('RanyBoldItalic.svg#RanyBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rany';
+    src: url('RanyLightItalic.eot');
+    src: url('RanyLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('RanyLightItalic.woff2') format('woff2'),
+        url('RanyLightItalic.woff') format('woff'),
+        url('RanyLightItalic.ttf') format('truetype'),
+        url('RanyLightItalic.svg#RanyLightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rany';
+    src: url('RanyItalic.eot');
+    src: url('RanyItalic.eot?#iefix') format('embedded-opentype'),
+        url('RanyItalic.woff2') format('woff2'),
+        url('RanyItalic.woff') format('woff'),
+        url('RanyItalic.ttf') format('truetype'),
+        url('RanyItalic.svg#RanyItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rany';
+    src: url('RanyBold.eot');
+    src: url('RanyBold.eot?#iefix') format('embedded-opentype'),
+        url('RanyBold.woff2') format('woff2'),
+        url('RanyBold.woff') format('woff'),
+        url('RanyBold.ttf') format('truetype'),
+        url('RanyBold.svg#RanyBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rany';
+    src: url('RanyLight.eot');
+    src: url('RanyLight.eot?#iefix') format('embedded-opentype'),
+        url('RanyLight.woff2') format('woff2'),
+        url('RanyLight.woff') format('woff'),
+        url('RanyLight.ttf') format('truetype'),
+        url('RanyLight.svg#RanyLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rany';
+    src: url('RanyMedium.eot');
+    src: url('RanyMedium.eot?#iefix') format('embedded-opentype'),
+        url('RanyMedium.woff2') format('woff2'),
+        url('RanyMedium.woff') format('woff'),
+        url('RanyMedium.ttf') format('truetype'),
+        url('RanyMedium.svg#RanyMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rany';
+    src: url('RanyMediumItalic.eot');
+    src: url('RanyMediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('RanyMediumItalic.woff2') format('woff2'),
+        url('RanyMediumItalic.woff') format('woff'),
+        url('RanyMediumItalic.ttf') format('truetype'),
+        url('RanyMediumItalic.svg#RanyMediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rany';
+    src: url('RanyRegular.eot');
+    src: url('RanyRegular.eot?#iefix') format('embedded-opentype'),
+        url('RanyRegular.woff2') format('woff2'),
+        url('RanyRegular.woff') format('woff'),
+        url('RanyRegular.ttf') format('truetype'),
+        url('RanyRegular.svg#RanyRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
